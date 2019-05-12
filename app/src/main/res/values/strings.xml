@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Tes</string>
+    <string name="width">Lebar</string>
+    <string name="height">Tinggi</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil</string>
+    <string name="length">Panjang</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="label">HITUGAN NGAWAK</string>
+    <string name="hitungan_ngawak">HITUNGAN NGAWAK</string>
+    <string name="autor">Create By Faisal Kholid</string>
+    <string name="create_by_faisal_kholid">Create by Faisal Kholid</string>
+</resources>
